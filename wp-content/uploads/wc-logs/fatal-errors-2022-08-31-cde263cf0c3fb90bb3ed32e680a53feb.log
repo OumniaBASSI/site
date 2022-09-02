@@ -1,0 +1,34 @@
+2022-08-31T08:48:47+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-includes\widgets\class-wp-widget-pages.php à la ligne 17
+
+2022-08-31T08:49:49+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementor\core\dynamic-tags\dynamic-css.php à la ligne 10
+
+2022-08-31T08:50:15+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-admin\includes\class-wp-filesystem-direct.php à la ligne 82
+
+2022-08-31T13:59:31+00:00 CRITICAL Out of memory (allocated 14680064) (tried to allocate 32768 bytes) dans C:\xampp\htdocs\CAPTURE\wp-admin\includes\ajax-actions.php à la ligne 2034
+
+2022-08-31T13:59:31+00:00 CRITICAL Out of memory (allocated 23068672) (tried to allocate 765952 bytes) in C:\xampp\htdocs\CAPTURE\wp-includes\pomo\streams.php on line 220
+
+2022-08-31T14:00:26+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 4096 bytes) dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.php à la ligne 651
+
+2022-08-31T14:12:47+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementskit-lite\widgets\page-list\page-list.php à la ligne 7
+
+2022-08-31T16:14:09+00:00 CRITICAL Out of memory (allocated 14680064) (tried to allocate 790528 bytes) dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.wp-scripts.php à la ligne 133
+
+2022-08-31T16:15:19+00:00 CRITICAL Out of memory (allocated 16777216) (tried to allocate 790528 bytes) dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.wp-scripts.php à la ligne 133
+
+2022-08-31T16:21:35+00:00 CRITICAL Out of memory (allocated 35651584) (tried to allocate 7763768 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementor\core\common\modules\ajax\module.php à la ligne 265
+
+2022-08-31T16:23:54+00:00 CRITICAL Out of memory (allocated 35651584) (tried to allocate 2097152 bytes) dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.php à la ligne 4247
+
+2022-08-31T16:29:28+00:00 CRITICAL Out of memory (allocated 41943040) (tried to allocate 6295552 bytes) dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.php à la ligne 4247
+
+2022-08-31T16:33:23+00:00 CRITICAL Out of memory (allocated 33554432) (tried to allocate 6295552 bytes) dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.php à la ligne 4247
+
+2022-08-31T16:38:35+00:00 CRITICAL Out of memory (allocated 31457280) (tried to allocate 2101248 bytes) dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.php à la ligne 4247
+
+2022-08-31T16:39:18+00:00 CRITICAL Out of memory (allocated 23068672) (tried to allocate 6295552 bytes) dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.php à la ligne 4247
+
+2022-08-31T16:39:53+00:00 CRITICAL Out of memory (allocated 12582912) (tried to allocate 32768 bytes) dans C:\xampp\htdocs\CAPTURE\wp-admin\includes\ajax-actions.php à la ligne 2034
+
+2022-08-31T16:39:54+00:00 CRITICAL Out of memory (allocated 16777216) (tried to allocate 6295552 bytes) dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.php à la ligne 4247
+

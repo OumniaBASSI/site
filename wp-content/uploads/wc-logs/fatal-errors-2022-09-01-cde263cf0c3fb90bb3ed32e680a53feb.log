@@ -1,0 +1,234 @@
+2022-09-01T08:14:54+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\wpforms-lite\includes\fields\class-radio.php à la ligne 8
+
+2022-09-01T08:15:49+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-admin\includes\class-wp-filesystem-direct.php à la ligne 82
+
+2022-09-01T09:14:22+00:00 CRITICAL Out of memory (allocated 77594624) (tried to allocate 4096 bytes) dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.php à la ligne 651
+
+2022-09-01T09:14:23+00:00 CRITICAL Out of memory (allocated 73400320) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementskit-lite\widgets\team\team.php à la ligne 968
+
+2022-09-01T09:14:27+00:00 CRITICAL Out of memory (allocated 77594624) (tried to allocate 765952 bytes) in C:\xampp\htdocs\CAPTURE\wp-includes\pomo\streams.php on line 220
+
+2022-09-01T09:14:37+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-content\themes\blocksy\inc\helpers.php à la ligne 467
+
+2022-09-01T09:14:42+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.php à la ligne 717
+
+2022-09-01T09:14:44+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.php à la ligne 651
+
+2022-09-01T09:15:09+00:00 CRITICAL Out of memory (allocated 85983232) (tried to allocate 20480 bytes) dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.php à la ligne 651
+
+2022-09-01T09:15:09+00:00 CRITICAL Out of memory (allocated 85983232) (tried to allocate 20480 bytes) dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.php à la ligne 651
+
+2022-09-01T09:15:12+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.php à la ligne 651
+
+2022-09-01T09:15:12+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.php à la ligne 651
+
+2022-09-01T09:15:12+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.php à la ligne 651
+
+2022-09-01T09:15:12+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.php à la ligne 651
+
+2022-09-01T09:15:13+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.php à la ligne 651
+
+2022-09-01T09:15:13+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.php à la ligne 651
+
+2022-09-01T09:15:14+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.php à la ligne 651
+
+2022-09-01T09:15:14+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-content\themes\blocksy\inc\customizer\init.php à la ligne 773
+
+2022-09-01T09:15:15+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-includes\class-wp-customize-setting.php à la ligne 632
+
+2022-09-01T09:15:15+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.php à la ligne 651
+
+2022-09-01T09:15:16+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.php à la ligne 651
+
+2022-09-01T09:15:16+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.php à la ligne 651
+
+2022-09-01T09:15:18+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.php à la ligne 651
+
+2022-09-01T09:15:18+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-includes\class-wp-customize-setting.php à la ligne 632
+
+2022-09-01T09:15:18+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-includes\customize\class-wp-customize-partial.php à la ligne 185
+
+2022-09-01T09:15:22+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.php à la ligne 651
+
+2022-09-01T09:26:56+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-content\themes\blocksy\inc\dynamic-styles\global\single-elements.php à la ligne 424
+
+2022-09-01T09:27:13+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.php à la ligne 651
+
+2022-09-01T09:27:16+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.php à la ligne 651
+
+2022-09-01T09:27:16+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.php à la ligne 651
+
+2022-09-01T09:27:16+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.php à la ligne 651
+
+2022-09-01T09:27:17+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.php à la ligne 651
+
+2022-09-01T09:27:18+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.php à la ligne 651
+
+2022-09-01T09:27:20+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.php à la ligne 651
+
+2022-09-01T09:27:20+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.php à la ligne 651
+
+2022-09-01T09:27:40+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.php à la ligne 651
+
+2022-09-01T09:27:46+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.php à la ligne 651
+
+2022-09-01T09:27:46+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.php à la ligne 651
+
+2022-09-01T09:27:47+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.php à la ligne 651
+
+2022-09-01T09:27:48+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.php à la ligne 651
+
+2022-09-01T09:27:49+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.php à la ligne 651
+
+2022-09-01T09:27:49+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.php à la ligne 651
+
+2022-09-01T09:27:50+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.php à la ligne 651
+
+2022-09-01T09:27:50+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.php à la ligne 651
+
+2022-09-01T09:27:50+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-includes\class-wp-customize-setting.php à la ligne 632
+
+2022-09-01T09:27:51+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.php à la ligne 651
+
+2022-09-01T09:27:51+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.php à la ligne 651
+
+2022-09-01T09:30:10+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-admin\includes\class-wp-filesystem-direct.php à la ligne 82
+
+2022-09-01T09:30:24+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.php à la ligne 651
+
+2022-09-01T09:30:24+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.php à la ligne 651
+
+2022-09-01T09:30:26+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.php à la ligne 651
+
+2022-09-01T09:30:27+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.php à la ligne 651
+
+2022-09-01T09:30:37+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-content\themes\blocksy\inc\dynamic-styles\global\pagination.php à la ligne 3
+
+2022-09-01T09:30:39+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-content\themes\blocksy\inc\dynamic-styles\global\single-elements.php à la ligne 180
+
+2022-09-01T09:57:10+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-content\themes\blocksy\inc\dynamic-styles\global\single-elements.php à la ligne 3
+
+2022-09-01T09:57:10+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-includes\capabilities.php à la ligne 1041
+
+2022-09-01T09:57:10+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-content\themes\blocksy\inc\classes\class-ct-css-injector.php à la ligne 229
+
+2022-09-01T10:32:00+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 3670016 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\themes\blocksy\inc\css\static-files.php à la ligne 279
+
+2022-09-01T10:40:23+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 475136 bytes) dans C:\xampp\htdocs\CAPTURE\wp-includes\functions.php à la ligne 4247
+
+2022-09-01T10:40:35+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementskit-lite\widgets\post-list\post-list.php à la ligne 1026
+
+2022-09-01T10:40:50+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementskit-lite\widgets\post-list\post-list.php à la ligne 1026
+
+2022-09-01T10:41:05+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementskit-lite\widgets\post-list\post-list.php à la ligne 1026
+
+2022-09-01T10:41:21+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementskit-lite\widgets\post-list\post-list.php à la ligne 1026
+
+2022-09-01T10:41:35+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementskit-lite\widgets\post-list\post-list.php à la ligne 1026
+
+2022-09-01T10:41:40+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementskit-lite\widgets\page-list\page-list.php à la ligne 933
+
+2022-09-01T10:41:46+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementskit-lite\widgets\page-list\page-list.php à la ligne 933
+
+2022-09-01T10:41:51+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementskit-lite\widgets\post-list\post-list.php à la ligne 1026
+
+2022-09-01T10:42:38+00:00 CRITICAL Out of memory (allocated 10485760) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementor\includes\fonts.php à la ligne 649
+
+2022-09-01T10:43:19+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementskit-lite\widgets\fluent-forms\fluent-forms.php à la ligne 1094
+
+2022-09-01T10:43:47+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 32768 bytes) dans C:\xampp\htdocs\CAPTURE\wp-includes\class-wp-image-editor-gd.php à la ligne 454
+
+2022-09-01T10:43:52+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementskit-lite\widgets\post-list\post-list.php à la ligne 1026
+
+2022-09-01T10:44:07+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementskit-lite\widgets\post-list\post-list.php à la ligne 1026
+
+2022-09-01T10:44:22+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementskit-lite\widgets\post-list\post-list.php à la ligne 1026
+
+2022-09-01T10:44:37+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementskit-lite\widgets\post-list\post-list.php à la ligne 1026
+
+2022-09-01T10:44:52+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementskit-lite\widgets\post-list\post-list.php à la ligne 1026
+
+2022-09-01T10:45:01+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementskit-lite\widgets\page-list\page-list.php à la ligne 933
+
+2022-09-01T10:45:07+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementskit-lite\widgets\post-list\post-list.php à la ligne 1026
+
+2022-09-01T10:45:22+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementskit-lite\widgets\post-list\post-list.php à la ligne 1026
+
+2022-09-01T10:45:37+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementskit-lite\widgets\post-list\post-list.php à la ligne 1026
+
+2022-09-01T10:45:52+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementskit-lite\widgets\post-list\post-list.php à la ligne 1026
+
+2022-09-01T10:46:07+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementskit-lite\widgets\post-list\post-list.php à la ligne 1026
+
+2022-09-01T10:46:23+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementskit-lite\widgets\post-list\post-list.php à la ligne 1026
+
+2022-09-01T10:46:37+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementskit-lite\widgets\post-list\post-list.php à la ligne 1026
+
+2022-09-01T10:46:53+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementskit-lite\widgets\post-list\post-list.php à la ligne 1026
+
+2022-09-01T10:47:07+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementskit-lite\widgets\post-list\post-list.php à la ligne 1026
+
+2022-09-01T10:47:22+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementskit-lite\widgets\post-list\post-list.php à la ligne 1026
+
+2022-09-01T10:47:37+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementskit-lite\widgets\post-list\post-list.php à la ligne 1026
+
+2022-09-01T10:47:52+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementskit-lite\widgets\post-list\post-list.php à la ligne 1026
+
+2022-09-01T10:47:55+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementskit-lite\widgets\post-list\post-list.php à la ligne 1026
+
+2022-09-01T10:48:04+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementskit-lite\widgets\post-list\post-list.php à la ligne 1026
+
+2022-09-01T10:48:07+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementskit-lite\widgets\post-list\post-list.php à la ligne 1026
+
+2022-09-01T10:48:24+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementskit-lite\widgets\post-list\post-list.php à la ligne 1026
+
+2022-09-01T10:48:39+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementskit-lite\widgets\post-list\post-list.php à la ligne 1026
+
+2022-09-01T10:49:06+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementskit-lite\widgets\post-list\post-list.php à la ligne 1026
+
+2022-09-01T10:49:10+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementskit-lite\widgets\post-list\post-list.php à la ligne 1026
+
+2022-09-01T10:49:20+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementskit-lite\widgets\page-list\page-list.php à la ligne 933
+
+2022-09-01T10:49:34+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementskit-lite\widgets\post-list\post-list.php à la ligne 1026
+
+2022-09-01T10:49:36+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementskit-lite\widgets\post-list\post-list.php à la ligne 1026
+
+2022-09-01T10:49:51+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementskit-lite\widgets\post-list\post-list.php à la ligne 1026
+
+2022-09-01T10:50:06+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementskit-lite\widgets\post-list\post-list.php à la ligne 1026
+
+2022-09-01T10:50:20+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementskit-lite\widgets\page-list\page-list.php à la ligne 933
+
+2022-09-01T10:50:21+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementskit-lite\widgets\post-list\post-list.php à la ligne 1026
+
+2022-09-01T13:02:18+00:00 CRITICAL Out of memory (allocated 50331648) (tried to allocate 28672 bytes) dans C:\xampp\htdocs\CAPTURE\wp-includes\media-template.php à la ligne 419
+
+2022-09-01T13:02:49+00:00 CRITICAL Out of memory (allocated 10485760) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementskit-lite\widgets\image-box\image-box.php à la ligne 1028
+
+2022-09-01T13:03:04+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementskit-lite\widgets\image-box\image-box.php à la ligne 1028
+
+2022-09-01T13:03:09+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 114688 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\elementskit-lite\widgets\image-box\image-box.php à la ligne 1028
+
+2022-09-01T13:03:48+00:00 CRITICAL Out of memory (allocated 14680064) (tried to allocate 32768 bytes) dans C:\xampp\htdocs\CAPTURE\wp-admin\includes\image.php à la ligne 912
+
+2022-09-01T13:03:58+00:00 CRITICAL Out of memory (allocated 10485760) (tried to allocate 32768 bytes) dans C:\xampp\htdocs\CAPTURE\wp-admin\includes\image.php à la ligne 912
+
+2022-09-01T13:04:06+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 32768 bytes) dans C:\xampp\htdocs\CAPTURE\wp-includes\Requests\IRI.php à la ligne 500
+
+2022-09-01T13:04:07+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 32768 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version2\class-wc-rest-system-status-v2-controller.php à la ligne 1204
+
+2022-09-01T13:04:25+00:00 CRITICAL Out of memory (allocated 10485760) (tried to allocate 32768 bytes) dans C:\xampp\htdocs\CAPTURE\wp-admin\includes\image.php à la ligne 525
+
+2022-09-01T13:05:13+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 765952 bytes) in C:\xampp\htdocs\CAPTURE\wp-includes\pomo\streams.php on line 220
+
+2022-09-01T13:13:46+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 32768 bytes) dans C:\xampp\htdocs\CAPTURE\wp-admin\includes\image.php à la ligne 525
+
+2022-09-01T13:13:57+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 32768 bytes) dans C:\xampp\htdocs\CAPTURE\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version2\class-wc-rest-system-status-v2-controller.php à la ligne 1204
+
+2022-09-01T13:39:27+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-admin\includes\class-core-upgrader.php à la ligne 411
+
+2022-09-01T13:39:37+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-admin\includes\class-core-upgrader.php à la ligne 411
+
+2022-09-01T13:40:31+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans C:\xampp\htdocs\CAPTURE\wp-admin\includes\class-wp-filesystem-direct.php à la ligne 82
+
